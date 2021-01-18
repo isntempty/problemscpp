@@ -1,7 +1,7 @@
 Create an respective output by respective input numbers (a,b), they have to output if the number is even or odd.
 
 Input
-a,b (numbers int)
+a,b (numbers int [range 1-9])
 
 Output
 a (number written)
