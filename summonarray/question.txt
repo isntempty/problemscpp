@@ -1,0 +1,19 @@
+Add up all the values of an array and output to the user.
+
+Input
+n (amount of values)
+x[n] (values n times)
+
+Output
+total sum
+
+e.g.
+Input
+3
+
+2
+1
+4
+
+Output
+7
