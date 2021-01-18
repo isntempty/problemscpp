@@ -1,0 +1,21 @@
+Create an respective output by respective input numbers (a,b), they have to output if the number is even or odd.
+
+Input
+a,b (numbers int)
+
+Output
+a (number written)
+b (number written)
+a (even or odd)
+b (even or odd)
+
+e.g.
+Input
+4
+9
+
+Output
+four
+nine
+even
+odd
